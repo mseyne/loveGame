@@ -1,9 +1,9 @@
 # loveGame
 lua games with love
 
-1. TicTacToe
-2. Pong
-3. Zork
+1. Pong
+2. TicTacToe
+3. Adventure (atari graphic version)
 4. Snake/Nibbles
 5. Arkanoid/Breakout
 6. Asteroids/Space War
@@ -19,7 +19,7 @@ lua games with love
 16. Draughts/Checkers/Chess/Go
 17. Domino/Triomino
 18. Reversi/Othello
-19. Adventure (atari graphic version)
+19. ...
 20. Pac-Man
 21. Sudoku
 22. 2048
